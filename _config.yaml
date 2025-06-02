@@ -6,6 +6,21 @@ header: images/background.jpg
 footer: images/background.jpg
 proofer: false
 
+# site navigation menu 
+menu:
+  - title: Home
+    url: /
+  - title: Professor
+    url: /professor/
+  - title: Members
+    url: /members/
+  - title: Researches
+    url: /researches/
+  - title: News
+    url: /news/
+  - title: More
+    url: /more/
+
 # site social media and other links
 links:
   email: contact@your-lab.com
